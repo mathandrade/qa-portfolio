@@ -1,0 +1,21 @@
+{
+  "name": "qa-portfolio",
+  "version": "1.0.0",
+  "description": "QA Automation Portfolio - Web + API testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathandrade/qa-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mathandrade/qa-portfolio/issues"
+  },
+  "homepage": "https://github.com/mathandrade/qa-portfolio#readme"
+}
