@@ -10,6 +10,9 @@ jobs:
   cypress-run:
     runs-on: ubuntu-latest
     
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: false
+    
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
@@ -17,7 +20,10 @@ jobs:
       - name: Setup do Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '18.20.0'
+
+      - name: Verificar versão do Node
+        run: node --version
 
       - name: Instalar dependências
         run: npm install
