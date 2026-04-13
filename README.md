@@ -29,3 +29,7 @@ Site testado: [SauceDemo](https://www.saucedemo.com)
 npm install
 npx cypress run
 
+<<<<<<< HEAD
+=======
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+>>>>>>> 1c071cf4c6b518f356e3a1f8e92ebc08e859fef6
