@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 # qa-portfolio
 QA Automation Portfolio - Web + API testing with Cypress
 # QA Portfolio - Testes Automatizados
@@ -27,3 +28,4 @@ Site testado: [SauceDemo](https://www.saucedemo.com)
 ```bash
 npm install
 npx cypress run
+
