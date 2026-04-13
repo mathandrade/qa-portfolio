@@ -1,4 +1,6 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+[![Cypress Tests](https://github.com/mathandrade/qa-portfolio/actions/workflows/cypress.yml/badge.svg)](https://github.com/mathandrade/qa-portfolio/actions/workflows/cypress.yml)
+
 # qa-portfolio
 QA Automation Portfolio - Web + API testing with Cypress
 # QA Portfolio - Testes Automatizados
